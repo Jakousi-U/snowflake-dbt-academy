@@ -1,0 +1,10 @@
+
+target/
+dbt_packages/
+logs/
+/.venv
+.env
+.venv/*
+.venv/Scripts/
+.vscode/*
+.venv/Scripts/dbt-core-experimental-parser.exe
